@@ -5,7 +5,7 @@ Este repositorio acompaña la exposición **"Spec-Driven Development: cómo usar
 - **Expositor:** Santiago Montironi
 - **Auxiliar:** Luca Bianconi Bo
 
-**Presentación:** [Ver en Google Presentaciones](https://docs.google.com/presentation/d/1lXz0iZOYKjA239_cqzUaErNhpHOHYh5R/edit?slide=id.p1#slide=id.p1)
+**Presentación:** [Carpeta Google Drive](https://drive.google.com/drive/folders/1zwq8dee5TF2XkoZYD5cSjOCmx9ww9WfS?usp=drive_link)
 
 ## ¿Qué es Spec-Driven Development?
 
